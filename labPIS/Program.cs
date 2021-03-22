@@ -8,6 +8,7 @@ namespace labPIS
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("Ej Pešo!");
         }
     }
 }
