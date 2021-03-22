@@ -6,5 +6,8 @@ namespace labPIS
 {
     class NewClass
     {
+        static void Ispis()
+        {
+        }
     }
 }
